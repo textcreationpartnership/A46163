@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Whereas Redmond O Hanlon of Tonderegee in the county of Armagh, yeoman, Laughlin Mac Redmond O Hanlon of Kelleany, yeoman, and several other persons named in a proclamation issued from this board, dated the 14th of December 1674, were for the reasons in the said proclamation expressed, proclaimed rebels and traytors ... by the Lord Lieutenant and Council, Ormonde.</title>
+            <author>Ireland. Lord Lieutenant (1677-1685 : Ormonde)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46163</idno>
+            <idno type="STC">Wing I860</idno>
+            <idno type="STC">ESTC R36918</idno>
+            <idno type="EEBO-CITATION">16156277</idno>
+            <idno type="OCLC">ocm 16156277</idno>
+            <idno type="VID">104905</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46163)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104905)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1595:42)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Whereas Redmond O Hanlon of Tonderegee in the county of Armagh, yeoman, Laughlin Mac Redmond O Hanlon of Kelleany, yeoman, and several other persons named in a proclamation issued from this board, dated the 14th of December 1674, were for the reasons in the said proclamation expressed, proclaimed rebels and traytors ... by the Lord Lieutenant and Council, Ormonde.</title>
+                  <author>Ireland. Lord Lieutenant (1677-1685 : Ormonde)</author>
+                  <author>Ormonde, James Butler, Duke of, 1610-1688.</author>
+               </titleStmt>
+               <extent>[2] leaves.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Benjamin Took and John Crook ... and are to be sold by Mary Crook ...,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1679 [1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from first 6 lines of text.</note>
+                  <note>Statement of responsibility transposed from head of title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Given at the Council-chamber in Dublin the 21th. day of January 1679" [1680]--leaf [2]</note>
+                  <note>Broadside in [2] leaves.</note>
+                  <note>Reproduction of original in the Society of Antiquaries Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>O'Hanlon, Redmond O'Hanlon, --  Count, d. 1681.</term>
+               <term>Brigands and robbers --  Ireland.</term>
+               <term>Ireland --  History --  1649-1775.</term>
+               <term>Ireland --  Politics and government --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:104905:1"/>
+            <!-- PDF PAGE 49 -->
+            <head>
+               <figure>
+                  <q>DIEV ET MON DROIT</q>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>BY THE Lord Lieutenant AND COUNCIL<g ref="char:punc">▪</g>
+            </head>
+            <opener>
+               <signed>ORMONDE.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas <hi>Redmond O Hanlon</hi> of <hi>Tonderegee</hi> in the County of <hi>Armagh,</hi> Yeoman; <hi>Laughlin Mac Redmond O Hanlon</hi> of <hi>Kelleany,</hi> Yeoman, and ſeveral other perſons named in a Proclamation Iſſued from this Board, dated the <hi>14th.</hi> of <hi>December 1674</hi> were for the reaſons in the ſaid Proclamation expreſſed, Proclaimed Rebels and Tray<g ref="char:EOLhyphen"/>tors, And whereas the ſaid <hi>Redmond</hi> and <hi>Laughlin O Hanlon,</hi> and their Complices, have (ſince the publiſhing of the ſaid Proclamation) in ſeveral Counties of this Kingdom, appeared in Armes againſt His Majeſties authority, and ſeveral of them Committed Murthers, Burglaries, Robberies and Stealths, beſides divers other outrages, to the Terror and annoyance of his Majeſties Loyal and good Subjects, and the diſturbance of the Peace of the Kingdom; upon which miſde<g ref="char:EOLhyphen"/>meanors and Crimes, being purſued by ſome of His Majeſties Good ſubjects aſſiſt<g ref="char:EOLhyphen"/>ed by ſome of his Majeſties Army, they the ſaid perſons and their Complices are fled to the Woodes and Mountains, and ſtand upon their Keeping, ſo as they are not anſwereable or ameaſneable to Law, but willfull contemners of the ſame, and cannot as yet be apprehended, whereby they may be puniſhed according to the or<g ref="char:EOLhyphen"/>dinary courſe of Law. We therefore do hereby declare, that the ſaid <hi>Redmond O Hanlon,</hi> and <hi>Laughlin O Hanlon</hi> ſhall henceforth be called, reputed and taken for Noto<g ref="char:EOLhyphen"/>rious
+<pb facs="tcp:104905:2"/>
+               <!-- PDF PAGE 50 -->
+Rebels and Traytors againſt his Majeſtie, and accordingly to be proſecuted by all his Majeſties Loveing and good Subjects, in all Hoſtile manner. And we further declare, that whatſoever perſon or perſons ſhall comfort, relieve or a bet them or either of them, they are &amp; ſhall be reputed, deemed &amp; adjudged Traytors in like de<g ref="char:EOLhyphen"/>gree with the forenamed Traytors &amp; Rebels themſelves, &amp; to be proceeded againſt according to Law; And we do in his Majeſties name ſtraightly Charge and Com<g ref="char:EOLhyphen"/>mand all his Majeſties Loyal Subjects, upon their duty of allegiance to His Ma<g ref="char:EOLhyphen"/>jeſty, not onely to forbear to receive or relieve the perſons aforeſaid or any of them, but alſo to make diligent ſearch and enquiry in what place or places the ſaid perſons ſhall from time to time Lurk or be relieved; and by all means poſſible to proſecute, apprehend and take the bodies of them, and them to bring or cauſe to be brought under ſafe cuſtodie unto the high Sheriff of the reſpective Counties where any of them ſhall be apprehended, to be by ſuch Sheriffs kept in ſtrict &amp; ſafe cuſtodie, untill we upon notice thereof ſhall give further direction concerning them, or reſi<g ref="char:EOLhyphen"/>ſting or refuſing, to be taken to kill them or either of them, And for the better en<g ref="char:EOLhyphen"/>couragment of ſuch perſon or perſons who ſhall proſecute and bring in the ſaid <hi>Redmond</hi> and <hi>Laughlin O Hanlon,</hi> We do hereby publickly declare, that whoſoever ſhall bring unto any Sheriff the bodies of them or either of them alive, or kill any of them, and bring his head to the Sheriff of the County where he ſhall be killed, to be by ſuch Sheriff ſet up in ſome publique place in that County. ſhall have for his reward for each of them ſo brought in, or his head, <hi>viz</hi> for <hi>Redmond <hi>O</hi> Hanlon,</hi> one hundred pounds, and for <hi>Laughlin <hi>O</hi> Hanlon</hi> Fifty pounds, for payment of which ſumms reſpectively, We will give ſufficient warrant as occaſion ſhall require, and will take care that the ſame ſhall be immediately paid accordingly; And towards the ſpeedie effecting of this ſervice, all Commanders of Horſe and Foot, and all o<g ref="char:EOLhyphen"/>ther His Majeſties Officers and Loveing Subjects are to be aiding and aſſiſting, as they and every of them will anſwer the Contrary at their peril.</p>
+            <closer>
+               <dateline>Given at the <hi>Council-Chamber</hi>in <hi>Dublin</hi> 
+                  <date>the 21th. day of January 1679.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>Mich: Armach: C.</item>
+                     <item>Jo: Dublin.</item>
+                     <item>Arran.</item>
+                     <item>Ranelagh.</item>
+                     <item>Longford.</item>
+                     <item>Lanesborough,</item>
+                     <item>Ed: Brabazon.</item>
+                     <item>Char: Meredith.</item>
+                     <item>Ro: Booth.</item>
+                     <item>John Keatinge.</item>
+                     <item>Jo: Davys.</item>
+                     <item>VVm Flower.</item>
+                     <item>Tho: Newcomen.</item>
+                  </list>
+               </signed>
+               <lb/>
+God ſave the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN<g ref="char:punc">▪</g>
+               </hi> Printed By <hi>Benjamin Took</hi> and <hi>John Crook,</hi> Printers to the King's moſt Excellent Majeſtie, and are to be ſold by <hi>Mary Crook</hi> at his Majeſties Printing-houſe in <hi>Skinner-Row.</hi> 1679.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
